@@ -1,3 +1,4 @@
 .ruby-gemset*
 .ruby-version*
 spec/config/twitter.yml
+spec/config/tumblr.yml
